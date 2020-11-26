@@ -1,0 +1,4 @@
+<launch>
+
+    <node pkg="orient_to_polaris" type="main.py" name="main" output="screen"/>
+</launch>
