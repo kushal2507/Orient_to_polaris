@@ -5,6 +5,7 @@
   After setting up your environment, from catkin_ws folder source bash file 
   
   roslaunch turtlebot_sim simulation.launch
+  
   roslaunch orient_to_polaris solution.launch
   
 * Functionality
